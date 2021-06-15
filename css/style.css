@@ -1,0 +1,37 @@
+.bg-custom {
+    background-color: #212529;
+}
+
+.dropdown-color-custom {
+    background-color: #212529;
+    color: white;
+}
+body{
+    scroll-behavior: smooth;
+}
+.color {
+    color: white;
+}
+
+.slider-image {
+    width: 1400px;
+    height: 400px;
+}
+.edited-footer{
+    display: flex;
+    position: relative;
+    top: 31vh;
+    width: 100%;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    padding-top: 13px;
+}
+.edited-footer p{
+    font-size: 17px;
+}
+.edited-footer a{
+    text-decoration: none;
+}
